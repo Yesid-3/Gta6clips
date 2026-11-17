@@ -1,0 +1,9 @@
+# Los videos e imágenes pesados no van en git (usar Drive o carpeta local)
+media/**/*.mp4
+media/**/*.mov
+media/**/*.webm
+media/**/*.mkv
+media/**/*.png
+media/**/*.jpg
+media/**/*.jpeg
+!media/**/.gitkeep
