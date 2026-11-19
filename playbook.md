@@ -8,14 +8,14 @@
 |---|---|
 | Nombre | [NOMBRE] |
 | Handle | @[HANDLE] (mismo en todas si se puede) |
-| Plataformas | [X / Instagram / TikTok / YouTube Shorts / Threads] |
+| Plataformas | Ninguna creada todavía. Crear: X, Instagram, TikTok, YouTube Shorts (Threads opcional) |
 | Zona horaria | [ZONA HORARIA] |
 | Horas para aprobar | [HORAS] |
-| Ángulo / nicho | [noticias rápidas / tips y lugares ocultos / momentos graciosos / autos y personalización] |
-| Idioma de los posts | [español / inglés / ambos] |
+| Ángulo / nicho | **Momentos graciosos y curiosos** |
+| Idioma de los posts | **Español** (público de Latinoamérica y España) |
 | Voz | [solo texto / voz IA / tu voz] |
 
-**Bio:** "Página de fans. Noticias, tips y los mejores clips de GTA 6, rápido. No afiliada a Rockstar Games."
+**Bio:** "Página de fans 🎥 Los momentos más graciosos y curiosos de GTA 6, con crédito a sus creadores. No afiliada a Rockstar Games."
 Nunca escribir "oficial". Sin logo ni arte clave de Rockstar como avatar.
 
 ## 2. Herramientas
@@ -30,6 +30,17 @@ Emoción pero limpio. Titulares cortos y directos. Tipo oración. Máximo un emo
 Escribir "GTA 6". Nunca clickbait que el post no cumpla.
 
 ## 4. Pilares y mezcla diaria
+Nicho: **momentos graciosos y curiosos.** Los clips graciosos y los datos curiosos son el centro; las noticias oficiales se publican solo cuando son grandes.
+
+| Pilar (prioridad) | Qué es |
+|---|---|
+| 1. Momentos graciosos | Clips acreditados: NPCs raros, fallos de física, choques absurdos, reacciones de streamers. Gancho: "NADIE ESPERABA ESTO 💀" |
+| 2. Curiosidades | "¿Sabías que…?" / "DETALLES QUE NO VISTE": detalles ocultos, easter eggs, referencias. Solo lo que se ve en pantalla. |
+| 3. Preguntas | "¿Cuál fue lo más raro que te pasó?" (alimenta el banco de clips). |
+| 4. Noticias oficiales grandes | Solo anuncios importantes, verificados. |
+| 5. Nostalgia GTA 5 | Momentos graciosos clásicos vs. GTA 6. |
+
+Tabla original del prompt (referencia):
 | Pilar | Qué es |
 |---|---|
 | Noticias oficiales | Resumen rápido de Rockstar, Take-Two, PlayStation, Xbox. Titular + 3–6 viñetas. |
@@ -42,7 +53,7 @@ Escribir "GTA 6". Nunca clickbait que el post no cumpla.
 
 **Franjas en X (ajustar a [ZONA HORARIA]):** mañana noticias · media mañana tip · mediodía clip · tarde nostalgia/pregunta · inicio de noche spotlight o 2.º clip · noche cuenta regresiva/resumen.
 **Instagram, TikTok, Shorts:** 1–2 clips verticales al día.
-Posts por día: X [4–6], Instagram [1–2], TikTok/Shorts [1–3].
+Posts por día (por defecto): X 4–6, Instagram 1–2, TikTok/Shorts 1–3. Prioridad: TikTok, Reels y Shorts, donde viven los clips graciosos.
 Calidad antes que volumen: mejor saltar una franja que publicar algo flojo o sin verificar.
 
 ## 5. Créditos y permisos
@@ -71,3 +82,23 @@ Formato de aprobación: un solo mensaje con el texto exacto y el medio, para res
 
 ## 9. Seguridad
 Ver prompt sección 14: verificar con fuente oficial, nada de noticias falsas, ni filtraciones, ni "capturas" generadas con IA, nunca insinuar afiliación, ni sorteos falsos, cuentas regresivas reproducibles en una zona horaria declarada, nunca compartir contraseñas.
+
+## 10. Plantillas en español
+Clip gracioso:
+```
+[GANCHO EN MAYÚSCULAS] 💀
+
+🎥 @creador
+```
+Curiosidad:
+```
+DETALLES DE GTA 6 QUE NO VISTE 👀
+
+1. [detalle]
+2. [detalle]
+3. [detalle]
+
+🎥 @creador
+```
+Pregunta: `¿Qué fue lo más raro que te pasó en GTA 6?`
+Ganchos de ejemplo: "NADIE ESPERABA ESTO 💀" · "EL NPC MÁS RARO DE GTA 6" · "ESTO NO DEBERÍA FUNCIONAR… Y FUNCIONA" · "SOLO EN GTA 6" · "¿SABÍAS QUE…?"
